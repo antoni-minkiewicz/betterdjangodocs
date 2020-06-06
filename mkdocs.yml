@@ -1,5 +1,5 @@
 site_name: Better Django Docs
-theme: windmill
+theme: readthedocs
 nav:
   - Home: index.md
   - Generic Views: django.views.generic/overview.md

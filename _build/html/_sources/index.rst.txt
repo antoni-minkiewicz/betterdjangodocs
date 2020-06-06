@@ -10,6 +10,8 @@ Welcome to BetterDjangoDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   docs/django.views.generic/overview.rst
+
 
 
 Indices and tables
